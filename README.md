@@ -20,7 +20,7 @@ The public docTag specification will be published soon and this README will be u
 Tests
 -----
 
-[![Build Status](https://secure.travis-ci.org/docTag/doctag_java.png?branch=master)](http://travis-ci.org/docTag/doctag_java)
+[![Build Status](https://secure.travis-ci.org/smarchive/doctag_java.png?branch=master)](http://travis-ci.org/smarchive/doctag_java)
 
 This library aims to have a comprehensive test suite which is being run after each push to the repository by
 Travis CI (see badge above).
